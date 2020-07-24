@@ -8,7 +8,7 @@ public class CartData {
     public CartData() {
     }
 
-    //
+    ///
 
     public CartData(String orderid, String trxid, String newid, String usid,String upuserid,String price) {
         this.orderid = orderid;
